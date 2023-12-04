@@ -50,7 +50,7 @@ int64_t line_to_digit(const std::string &pString) {
 
 int main() {
     // Open the file
-    std::ifstream file("/Users/meow/CLionProjects/aoc1/input.txt");
+    std::ifstream file("/Users/meow/Downloads/input (1).txt");
 
     // Check if the file was opened successfully
     if (!file) {
